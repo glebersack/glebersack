@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, I'm Gleb 👋
+Dual student (Business Informatics, DHBW Stuttgart) at Allianz Technology.
 
 - 🔭 I’m currently working to become an better specialist @ AI development
 - 🌱 I’m currently learning - basics to become an AI junior engineer 
